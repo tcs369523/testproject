@@ -4,6 +4,7 @@ public class HelloWorld {
 	private String id;
 	private String result;
 	private String age;
+	private String story1;
 
 	public void setName(String name){
 		this.name=name;
