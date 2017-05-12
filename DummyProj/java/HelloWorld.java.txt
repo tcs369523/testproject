@@ -2,8 +2,9 @@ public class HelloWorld {
 
 	private String name;
 	private String id;
-	private String result;
+	private String result1;
 	private String age;
+	private String Story2
 
 	public void setName(String name){
 		this.name=name;
