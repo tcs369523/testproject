@@ -3,8 +3,11 @@ public class HelloWorld {
 	private String name;
 	private String id;
 	private String result;
-	private String age3;
-	private String story1;
+	private String age4;
+	private String story3;
+	private String result1;
+	
+
 
 	public void setName(String name){
 		this.name=name;
