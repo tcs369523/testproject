@@ -19,6 +19,7 @@ public class HelloWorld {
 	
 	public String getId(){
 		return this.id;
+	System.out.println("id is "+id);
 	}
 
 
