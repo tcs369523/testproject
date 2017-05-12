@@ -3,7 +3,7 @@ public class HelloWorld {
 	private String name;
 	private String id;
 	private String result;
-	private String age;
+	private String age3;
 	private String story1;
 
 	public void setName(String name){
